@@ -1,0 +1,14 @@
+{
+  "type": "VM_TYPE_QEMU",
+  "name": "4234234",
+  "id": "1d39fe12-ee55-42fe-81d8-7ec873c2254e",
+  "memory": {
+    "rom": [
+      {
+        "name": "test",
+        "capacity": "1G",
+        "type":"qcow2"
+      }
+    ]
+  }
+}

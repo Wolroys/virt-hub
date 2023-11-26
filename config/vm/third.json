@@ -1,0 +1,13 @@
+{
+  "type": "VM_TYPE_QEMU",
+  "name": "test",
+  "id": "4bd83719-a8b5-49bd-9a50-7f4ac257da4e",
+  "memory": {
+    "rom": [
+      {
+        "name": "test",
+        "capacity": "1G"
+      }
+    ]
+  }
+}
